@@ -1,0 +1,39 @@
+button {
+    background-color: cornflowerblue;
+    font-size: 25px;
+    border-radius: 10px;
+    border-color: rgb(70, 130, 240);
+    margin: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+
+button:hover {
+    background-color: rgb(157, 185, 237);
+    cursor: pointer;
+    box-shadow: 0 0 10px rgb(122, 72, 248),
+        0 0 20px rgb(255, 255, 255),
+        0 0 30px rgb(122, 72, 248),
+        0 0 40px rgb(122, 72, 248);
+}
+
+input {
+    font-size: 25px;
+    border-radius: 10px;
+    border-color: rgb(70, 130, 240);
+    margin: 5px;
+    padding: 5px;
+    box-shadow: 0 0 10px rgb(122, 72, 248),
+        0 0 20px rgb(255, 255, 255),
+        0 0 30px rgb(122, 72, 248),
+        0 0 40px rgb(122, 72, 248);
+}
+
+form {
+    border-radius: 18px;
+}
+
+li {
+    list-style-type: none;
+    padding-left: 0
+}
